@@ -1,0 +1,35 @@
+<body bgcolor="#FFFFFF" leftmargin="40" topmargin="0" marginwidth="0" marginheight="0">
+<div>
+    <br />
+    <table style="width: 800px;">
+        <tbody>
+        <tr>
+            <td colspan="2" width="600" height="28"><div style="text-align: left; float: left; font-size: 26px; font-weight: bold; color: #253400; font-family: arial, sans-serif;">
+                <div style="text-decoration: none;color:black">Netcracker message</div></td>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" width="334" height="497" align="left" valign="top">
+                <table style="width: 450px;">
+                    <tbody>
+                    <tr>
+                        <td style="font-size: 17px; font-family: arial, sans-serif; color: #5d8400; text-align: left;font-weight: bold;">In this message you get new password</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <h2>Your password is:</h2>
+                            ${message}
+                        </td>
+                    </tr>
+                    </tbody>
+                </table></td>
+            <td width="24" height="65"></td>
+        </tr>
+        <tr>
+
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+
